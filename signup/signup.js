@@ -66,7 +66,7 @@ form.addEventListener('submit', e => {
 	
 	localStorage.setItem("e",email);
 	localStorage.setItem("p",password);
-	document.location.href = 'file:///C:/Users/ANANT%20VERMA/Desktop/PROJECT/Project1/signupConPage.html';
+	document.location.href = '#';
 
 	return false;
 
